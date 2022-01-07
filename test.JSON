@@ -1,19 +1,66 @@
-[
 {
-"id":[
-{
-"name":"Funny"
-},
-{
-
-"name":"Romantic"
-},
-{
-"name":"Jokes"
-},
-{
-"name":"Love"
+   "results":[
+      {
+         "gender":"male",
+         "name":{
+            "title":"Mr",
+            "first":"Abram",
+            "last":"Schönherr"
+         },
+         "location":{
+            "street":{
+               "number":31,
+               "name":"Mühlenweg"
+            },
+            "city":"Altentreptow",
+            "state":"Hamburg",
+            "country":"Germany",
+            "postcode":32746,
+            "coordinates":{
+               "latitude":"-45.6532",
+               "longitude":"-163.8161"
+            },
+            "timezone":{
+               "offset":"+3:30",
+               "description":"Tehran"
+            }
+         },
+         "email":"abram.schonherr@example.com",
+         "login":{
+            "uuid":"0d90b054-72d0-4988-8248-85f3d98ed86e",
+            "username":"crazylion596",
+            "password":"bonita",
+            "salt":"Dl1cLFIH",
+            "md5":"e971202f1740ea47c642c42b8d099f87",
+            "sha1":"794e1177ac4f5cbf3cb579430b963d1f74cab0d8",
+            "sha256":"f28b9a3010591d4edbaa2cfacd07bb788e1a2cef0d664fbaff5423bb33de28b9"
+         },
+         "dob":{
+            "date":"1964-03-02T14:24:17.707Z",
+            "age":58
+         },
+         "registered":{
+            "date":"2018-10-27T13:29:11.407Z",
+            "age":4
+         },
+         "phone":"0865-8854964",
+         "cell":"0176-9199831",
+         "id":{
+            "name":"",
+            "value":null
+         },
+         "picture":{
+            "large":"https://randomuser.me/api/portraits/men/24.jpg",
+            "medium":"https://randomuser.me/api/portraits/med/men/24.jpg",
+            "thumbnail":"https://randomuser.me/api/portraits/thumb/men/24.jpg"
+         },
+         "nat":"DE"
+      }
+   ],
+   "info":{
+      "seed":"f327a859da4bd985",
+      "results":1,
+      "page":1,
+      "version":"1.3"
+   }
 }
-]
-}
-]
